@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.add_dependency 'rest-client', '~> 2.0'
-  s.add_dependency 'solidus_core', '~> 2.4'
+  s.add_dependency 'solidus_core'
   s.add_dependency 'solidus_support', '~> 0'
 
   s.add_dependency 'canonical-rails', '~> 0.2.0'
